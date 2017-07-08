@@ -1,0 +1,23 @@
+{
+  "name": "messengerbotjobs",
+  "version": "1.0.0",
+  "description": "chat bot messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topmarca/messenger-bot-jobs.git"
+  },
+  "keywords": [
+    "messenger",
+    "bot"
+  ],
+  "author": "Deckell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/topmarca/messenger-bot-jobs/issues"
+  },
+  "homepage": "https://github.com/topmarca/messenger-bot-jobs#readme"
+}
